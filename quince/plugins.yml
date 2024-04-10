@@ -1,0 +1,11 @@
+# This is the index for all Tutor plugins used by edunext.
+# It is available at the following location: https://raw.githubusercontent.com/eduNEXT/tutor-plugin-indexes/main/quince/plugins.yml
+
+- name: codejail
+  src: '-e git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v17.0.1'
+  url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
+  author: edunext <technical@edunext.co>
+  maintainer: edunext <technical@edunext.co>
+  description: >
+    Tutor plugin that enables execution of untrusted code in secure sandboxes
+    using an external service based on the codejail library.
