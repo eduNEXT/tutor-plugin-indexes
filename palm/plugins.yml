@@ -2,7 +2,7 @@
 # It is available at the following location: https://raw.githubusercontent.com/eduNEXT/tutor-plugin-indexes/main/palm/plugins.yml
 
 - name: mfe
-  src: '-e git+https://github.com/eduNEXT/tutor-mfe.git@v16.1.3.post1'
+  src: '-e git+https://github.com/eduNEXT/tutor-mfe.git@v16.1.3.post1#egg=tutor-mfe'
   url: 'https://github.com/eduNEXT/tutor-mfe.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -11,7 +11,7 @@
     applications on top of an Open edX platform that runs with Tutor.
 
 - name: codejail
-  src: '-e git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v16.0.0'
+  src: '-e git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v16.0.0#egg=tutor-contrib-codejail'
   url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -20,7 +20,7 @@
     using an external service based on the codejail library.
 
 - name: mfe_extensions
-  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@v16.0.0'
+  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@v16.0.0#egg=tutor-contrib-mfe-extensions'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>

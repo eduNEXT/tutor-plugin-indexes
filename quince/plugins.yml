@@ -2,7 +2,7 @@
 # It is available at the following location: https://raw.githubusercontent.com/eduNEXT/tutor-plugin-indexes/main/quince/plugins.yml
 
 - name: codejail
-  src: '-e git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v17.0.1'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v17.0.1#egg=tutor-contrib-codejail'
   url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
