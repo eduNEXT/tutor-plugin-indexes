@@ -28,3 +28,6 @@
     This plugin is meant to be a collection of experimental changes to the
     tutor-mfe configuration. At the moment, it will be the testing ground for
     CDN support for MFEs.
+
+- name: another_python_plugin
+  src: '-e dir/another_python_plugin.py'
