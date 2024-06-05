@@ -3,7 +3,7 @@
 # The default plugins from the overhang index: https://overhang.io/tutor/main/quince/plugins.yml
 
 - name: codejail
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v17.0.1#egg=tutor-contrib-codejail'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v17.0.1'
   url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -12,7 +12,7 @@
     using an external service based on the codejail library.
 
 - name: mfe_extensions
-  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@hpg/quince-support#egg=tutor-contrib-mfe-extensions==v17.0.0'
+  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
