@@ -21,7 +21,7 @@ Remove the index with:
   tutor plugins index remove https://raw.githubusercontent.com/eduNEXT/tutor-plugin-indexes/main/
   
 
-If you need to update the cache, use the command ``tutor plugins update``.
+If you need to update the cache, that means, fetching the latest changes in the index, use the command ``tutor plugins update``.
 
 
 Update or Create an index
