@@ -21,6 +21,14 @@
     tutor-mfe configuration. At the moment, it will be the testing ground for
     CDN support for MFEs.
 
+- name: sentry
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@cag/sentry'
+  url: 'https://github.com/eduNEXT/tutor-contrib-sentry.git'
+  author: edunext <technical@edunext.co>
+  maintainer: edunext <technical@edunext.co>
+  description: >
+    Tutor plugin to integrate Open edX with Sentry
+
 - name: aspects
   src: 'git+https://github.com/openedx/tutor-contrib-aspects.git@v1.0.3'
   url: 'https://github.com/openedx/tutor-contrib-aspects.git'
