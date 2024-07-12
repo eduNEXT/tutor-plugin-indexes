@@ -22,7 +22,7 @@
     CDN support for MFEs.
 
 - name: sentry
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@cag/sentry'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git'
   url: 'https://github.com/eduNEXT/tutor-contrib-sentry.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
