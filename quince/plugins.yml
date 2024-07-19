@@ -12,7 +12,7 @@
     using an external service based on the codejail library.
 
 - name: mfe_extensions
-  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@master#egg=tutor-contrib-mfe-extensions==v17.0.0'
+  src: '-e git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@v17.0.0#egg=tutor-contrib-mfe-extensions==v17.0.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
