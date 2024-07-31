@@ -38,7 +38,7 @@
     The Open Analytics Reference System.
 
 - name: drydock
-  src: 'git+https://github.com/eduNEXT/drydock.git@v18.1.0'
+  src: 'git+https://github.com/eduNEXT/drydock.git@v18.2.0'
   url: 'https://github.com/eduNEXT/drydock.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
