@@ -1,0 +1,30 @@
+# This is the index for all Tutor plugins used by edunext.
+# It is available at the following location: https://raw.githubusercontent.com/eduNEXT/tutor-plugin-indexes/main/olive/plugins.yml
+# The default plugins from the overhang index: https://overhang.io/tutor/main/olive/plugins.yml
+
+- name: codejail
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v15.2.0'
+  url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
+  author: edunext <technical@edunext.co>
+  maintainer: edunext <technical@edunext.co>
+  description: >
+    Tutor plugin that enables execution of untrusted code in secure sandboxes
+    using an external service based on the codejail library.
+
+- name: mfe_extensions
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@v15.0.0'
+  url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
+  author: edunext <technical@edunext.co>
+  maintainer: edunext <technical@edunext.co>
+  description: >
+    This plugin is meant to be a collection of experimental changes to the
+    tutor-mfe configuration. At the moment, it will be the testing ground for
+    CDN support for MFEs.
+
+- name: aspects
+  src: 'git+https://github.com/openedx/tutor-contrib-aspects.git@v1.0.3'
+  url: 'https://github.com/openedx/tutor-contrib-aspects.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    The Open Analytics Reference System.
