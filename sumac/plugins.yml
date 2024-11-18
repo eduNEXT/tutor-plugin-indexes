@@ -36,3 +36,12 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: mfe
+  src: 'git+https://github.com/overhangio/tutor-mfe.git@sumac'
+  url: https://github.com/overhangio/tutor-mfe
+  author: Edly <regis.behmo@edly.io>
+  maintainer: Edly <regis.behmo@edly.io>
+  description: |
+    Easy integration of custom microfrontends with your Open edX platform.
+    Microfrontends form the backbone of Open edX. Thus, this plugin is required by most Open edX installations.
