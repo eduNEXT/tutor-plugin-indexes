@@ -3,7 +3,7 @@
 # The default plugins from the overhang index: https://overhang.io/tutor/main/sumac/plugins.yml
 
 - name: codejail
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@sumac'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-codejail.git@v19.0.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-codejail.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -12,7 +12,7 @@
     using an external service based on the codejail library.
 
 - name: mfe_extensions
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@main'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@v19.0.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -22,7 +22,7 @@
     CDN support for MFEs.
 
 - name: sentry
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@main'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@v19.0.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-sentry.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
