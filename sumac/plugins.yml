@@ -36,3 +36,11 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: tutor-modern-theming
+  src: 'git+https://github.com/eduNEXT/tutor-modern-theming.git@master'
+  url: 'https://github.com/eduNEXT/tutor-modern-theming.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    tutor modern theming.
