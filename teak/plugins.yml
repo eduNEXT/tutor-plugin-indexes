@@ -1,0 +1,16 @@
+- name: notes
+  src: 'git+https://github.com/overhangio/tutor-notes.git@3fe46bc27847ef866395b249f7a6befb3fdd0f95'
+  url: 'https://github.com/overhangio/tutor-notes.git'
+  author: Edly <regis.behmo@edly.io>
+  maintainer: eduNEXT
+  description: |
+    Add student notes to the Open edX courseware.
+
+- name: mfe
+  src: 'git+https://github.com/overhangio/tutor-mfe.git@3b58569075e6676d73a37cc5a48a809d0193ea8c'
+  url: 'https://github.com/overhangio/tutor-mfe.git'
+  author: Edly <regis.behmo@edly.io>
+  maintainer: Edly <regis.behmo@edly.io>
+  description: |
+    Easy integration of custom microfrontends with your Open edX platform.
+    Microfrontends form the backbone of Open edX. Thus, this plugin is required by most Open edX installations.
