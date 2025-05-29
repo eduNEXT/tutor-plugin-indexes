@@ -24,3 +24,12 @@
   description: |
     Easy integration of custom microfrontends with your Open edX platform.
     Microfrontends form the backbone of Open edX. Thus, this plugin is required by most Open edX installations.
+
+- name: sentry
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@teak'
+  url: https://github.com/eduNEXT/tutor-contrib-sentry
+  author: eduNEXT <technical@edunext.co>
+  maintainer: eduNEXT <technical@edunext.co>
+  description: |
+    Sentry integration for Open edX.
+
