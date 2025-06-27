@@ -33,3 +33,10 @@
   description: |
     Sentry integration for Open edX.
 
+- name: aspects
+  src: 'git+https://github.com/openedx/tutor-contrib-aspects.git@v2.3.1'
+  url: 'https://github.com/openedx/tutor-contrib-aspects.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    The Open Analytics Reference System.
