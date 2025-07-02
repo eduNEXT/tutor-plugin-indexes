@@ -1,13 +1,5 @@
-- name: notes
-  src: 'git+https://github.com/overhangio/tutor-notes.git@3fe46bc27847ef866395b249f7a6befb3fdd0f95'
-  url: 'https://github.com/overhangio/tutor-notes.git'
-  author: Edly <regis.behmo@edly.io>
-  maintainer: eduNEXT
-  description: |
-    Add student notes to the Open edX courseware.
-
 - name: mfe-extensions
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@teak'
+  src: 'tutor-contrib-mfe-extensions~=20.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
@@ -16,17 +8,8 @@
     tutor-mfe configuration. At the moment, it will be the testing ground for
     CDN support for MFEs.
 
-- name: mfe
-  src: 'git+https://github.com/overhangio/tutor-mfe.git@3b58569075e6676d73a37cc5a48a809d0193ea8c'
-  url: 'https://github.com/overhangio/tutor-mfe.git'
-  author: Edly <regis.behmo@edly.io>
-  maintainer: Edly <regis.behmo@edly.io>
-  description: |
-    Easy integration of custom microfrontends with your Open edX platform.
-    Microfrontends form the backbone of Open edX. Thus, this plugin is required by most Open edX installations.
-
 - name: sentry
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-sentry.git@teak'
+  src: 'tutor-contrib-sentry~=20.0'
   url: https://github.com/eduNEXT/tutor-contrib-sentry
   author: eduNEXT <technical@edunext.co>
   maintainer: eduNEXT <technical@edunext.co>
