@@ -23,3 +23,12 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: paragon
+  src: 'git+https://github.com/openedx/openedx-tutor-plugins.git#subdirectory=plugins/tutor-contrib-paragon'
+  url: 'https://github.com/openedx/openedx-tutor-plugins.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    The Tutor Paragon Plugin (tutor-contrib-paragon) enables developers and 
+    operators to compile Paragon design tokens into CSS themes.
