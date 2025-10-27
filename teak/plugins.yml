@@ -1,3 +1,11 @@
+- name: mfe
+  src: 'tutor-mfe-~=20.1.0'
+  url: 'https://github.com/overhangio/tutor-mfe'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    This plugin builds the mfe image
+
 - name: mfe-extensions
   src: 'tutor-contrib-mfe-extensions~=20.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
