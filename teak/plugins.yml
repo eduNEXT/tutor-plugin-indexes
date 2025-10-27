@@ -1,5 +1,5 @@
 - name: mfe
-  src: 'tutor-mfe-~=20.1.0'
+  src: 'tutor-mfe~=20.1.0'
   url: 'https://github.com/overhangio/tutor-mfe'
   author: The Open edX Community
   maintainer: The Open edX Community
