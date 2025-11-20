@@ -5,3 +5,11 @@
   maintainer: The Open edX Community
   description: >
     This plugin builds the mfe image
+
+- name: forum
+  src: 'git+https://github.com/overhangio/tutor-forum.git@ulmo'
+  url: 'https://github.com/overhangio/tutor-forum'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: |
+    This plugin adds discussion forums to the Open edX platform.
