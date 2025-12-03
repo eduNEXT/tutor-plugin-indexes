@@ -5,3 +5,28 @@
   maintainer: The Open edX Community
   description: >
     This plugin builds the mfe image
+
+- name: forum
+  src: 'git+https://github.com/overhangio/tutor-forum.git@ulmo'
+  url: 'https://github.com/overhangio/tutor-forum'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: |
+    This plugin adds discussion forums to the Open edX platform.
+
+
+- name: mfe-extensions
+  src: 'git+https://github.com/edunext/tutor-contrib-mfe-extensions.git@ce1ce53f83697aea30609877a9c1942bcce4b06c'
+  url: 'https://github.com/edunext/tutor-contrib-mfe-extensions'
+  author: eduNEXT
+  maintainer: eduNEXT
+  description: >
+    Extensions to the MFE Tutor plugin
+
+- name: sentry
+  src: 'git+https://github.com/edunext/tutor-contrib-sentry.git@b8084afa2fc1e97c672ce661427dde2edf41401c'
+  url: 'https://github.com/edunext/tutor-contrib-sentry'
+  author: eduNEXT
+  maintainer: eduNEXT
+  description: >
+    Sentry monitoring configuration and SDK for edx-platform
