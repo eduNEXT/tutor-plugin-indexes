@@ -1,3 +1,12 @@
+- name: mfe
+  src: tutor-mfe>=20.0.0,<21.0.0
+  url: https://github.com/overhangio/tutor-mfe
+  author: Edly <hello@edly.io>
+  maintainer: Axim <abrandes@axim.org>
+  description: |
+    Easy integration of custom microfrontends with your Open edX platform.
+    Microfrontends form the backbone of Open edX. Thus, this plugin is required by most Open edX installations.
+
 - name: mfe-extensions
   src: 'tutor-contrib-mfe-extensions~=20.0'
   url: 'https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git'
