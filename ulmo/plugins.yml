@@ -1,5 +1,5 @@
 - name: mfe
-  src: 'git+https://github.com/overhangio/tutor-mfe.git@ulmo'
+  src: 'git+https://github.com/overhangio/tutor-mfe.git@v21.0.0'
   url: 'https://github.com/overhangio/tutor-mfe'
   author: The Open edX Community
   maintainer: The Open edX Community
@@ -7,7 +7,7 @@
     This plugin builds the mfe image
 
 - name: forum
-  src: 'git+https://github.com/overhangio/tutor-forum.git@ulmo'
+  src: 'git+https://github.com/overhangio/tutor-forum.git@v21.0.0'
   url: 'https://github.com/overhangio/tutor-forum'
   author: The Open edX Community
   maintainer: The Open edX Community
