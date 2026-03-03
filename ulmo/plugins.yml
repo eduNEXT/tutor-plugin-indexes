@@ -1,37 +1,37 @@
 - name: mfe
-  src: 'git+https://github.com/overhangio/tutor-mfe.git@v21.0.0'
-  url: 'https://github.com/overhangio/tutor-mfe'
+  src: 'tutor-mfe~=21.0'
+  url: 'https://github.com/overhangio/tutor-mfe.git'
   author: The Open edX Community
   maintainer: The Open edX Community
   description: >
     This plugin builds the mfe image
 
 - name: forum
-  src: 'git+https://github.com/overhangio/tutor-forum.git@v21.0.0'
-  url: 'https://github.com/overhangio/tutor-forum'
+  src: 'tutor-forum~=21.0'
+  url: 'https://github.com/overhangio/tutor-forum.git'
   author: The Open edX Community
   maintainer: The Open edX Community
   description: |
     This plugin adds discussion forums to the Open edX platform.
 
 - name: mfe-extensions
-  src: 'git+https://github.com/edunext/tutor-contrib-mfe-extensions.git@ce1ce53f83697aea30609877a9c1942bcce4b06c'
-  url: 'https://github.com/edunext/tutor-contrib-mfe-extensions'
+  src: 'tutor-contrib-mfe-extensions~=21.0'
+  url: 'https://github.com/edunext/tutor-contrib-mfe-extensions.git'
   author: eduNEXT
   maintainer: eduNEXT
   description: >
     Extensions to the MFE Tutor plugin
 
 - name: sentry
-  src: 'git+https://github.com/edunext/tutor-contrib-sentry.git@b8084afa2fc1e97c672ce661427dde2edf41401c'
-  url: 'https://github.com/edunext/tutor-contrib-sentry'
+  src: 'tutor-contrib-sentry~=21.0'
+  url: 'https://github.com/edunext/tutor-contrib-sentry.git'
   author: eduNEXT
   maintainer: eduNEXT
   description: >
     Sentry monitoring configuration and SDK for edx-platform
 
 - name: aspects
-  src: 'git+https://github.com/openedx/tutor-contrib-aspects.git@v3.0.2'
+  src: 'tutor-contrib-aspects==3.0.2'
   url: 'https://github.com/openedx/tutor-contrib-aspects.git'
   author: The Open edX Community
   maintainer: The Open edX Community
