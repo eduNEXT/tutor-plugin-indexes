@@ -1,0 +1,15 @@
+- name: mfe
+  src: 'git+https://github.com/overhangio/tutor-mfe.git@d0804c2590431780d3a0ed6d24701c20eef5a86d'
+  url: 'https://github.com/overhangio/tutor-mfe'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    This plugin builds the mfe image
+
+- name: notes
+  src: 'git+https://github.com/overhangio/tutor-notes.git@2cfe80f82dde6e794782d0484a7b1bf6af9296f2'
+  url: 'https://github.com/overhangio/tutor-notes'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    This plugin builds the notes image
