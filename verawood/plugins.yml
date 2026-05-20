@@ -15,7 +15,7 @@
     This plugin builds the notes image
 
 - name: mfe-extensions
-  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@42f7d14d02c787413141153d36748cb4cf7cbd0d'
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-mfe-extensions.git@f1f1cd0a822674dbea0199f4e77698ab12c0d283'
   url: 'https://github.com/edunext/tutor-contrib-mfe-extensions.git'
   author: eduNEXT
   maintainer: eduNEXT
