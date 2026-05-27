@@ -37,3 +37,11 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: openedx-ai-extensions
+  src: 'git+https://github.com/openedx/openedx-ai-extensions.git@v2.5.1'
+  url: 'https://github.com/openedx/openedx-ai-extensions.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    An experimental Open edX plugin for AI-powered educational workflows.
