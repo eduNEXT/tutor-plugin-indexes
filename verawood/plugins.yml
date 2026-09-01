@@ -37,3 +37,14 @@
   maintainer: eduNEXT
   description: >
     This plugin integrates Sentry error tracking into Open edX.
+
+# TEMPORARY: points at the eduNEXT fork branch with Verawood support
+# (tutor/tutor-mfe bumped to <23) until upstream PR openedx/openedx-ai-extensions#247
+# is merged and a Verawood-compatible release is tagged. Then switch src to that tag.
+- name: openedx-ai-extensions
+  src: 'git+https://github.com/eduNEXT/openedx-ai-extensions.git@jipm/support-verawood'
+  url: 'https://github.com/openedx/openedx-ai-extensions.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    AI-powered extensions for Open edX.
