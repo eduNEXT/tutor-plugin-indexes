@@ -29,3 +29,19 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: sentry
+  src: 'tutor-contrib-sentry==22.0.0'
+  url: 'https://github.com/eduNEXT/tutor-contrib-sentry.git'
+  author: eduNEXT
+  maintainer: eduNEXT
+  description: >
+    This plugin integrates Sentry error tracking into Open edX.
+
+- name: openedx-ai-extensions
+  src: 'git+https://github.com/openedx/openedx-ai-extensions.git@v2.6.0'
+  url: 'https://github.com/openedx/openedx-ai-extensions.git'
+  author: The Open edX Community
+  maintainer: The Open edX Community
+  description: >
+    AI-powered extensions for Open edX.
