@@ -1,5 +1,5 @@
 - name: mfe
-  src: 'git+https://github.com/overhangio/tutor-mfe.git@1547ec2787535f9b340ba87909fef2ec32a806c9'
+  src: 'tutor-mfe==22.1.0'
   url: 'https://github.com/overhangio/tutor-mfe'
   author: The Open edX Community
   maintainer: The Open edX Community
