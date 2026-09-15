@@ -23,3 +23,12 @@
   maintainer: The Open edX Community
   description: >
     The Open Analytics Reference System.
+
+- name: edunext-security-patches
+  src: 'git+https://github.com/eduNEXT/tutor-contrib-edunext-security-patches@teak'
+  url: 'https://github.com/eduNEXT/tutor-contrib-edunext-security-patches'
+  author: eduNEXT <technical@edunext.co>
+  maintainer: eduNEXT <technical@edunext.co>
+  description: >
+    Shared eduNEXT security patches for Open edX (branch-per-release, teak).
+    POC pins the branch; production should pin an immutable tag (@teak/vX.Y.Z).
