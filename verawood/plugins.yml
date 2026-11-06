@@ -1,5 +1,5 @@
 - name: mfe
-  src: 'tutor-mfe==22.1.0'
+  src: 'tutor-mfe==22.1.2'
   url: 'https://github.com/overhangio/tutor-mfe'
   author: The Open edX Community
   maintainer: The Open edX Community
@@ -7,7 +7,7 @@
     This plugin builds the mfe image
 
 - name: notes
-  src: 'tutor-notes==22.0.0'
+  src: 'tutor-notes==22.0.1'
   url: 'https://github.com/overhangio/tutor-notes'
   author: The Open edX Community
   maintainer: The Open edX Community
