@@ -47,8 +47,8 @@
     AI-powered extensions for Open edX.
 
 - name: tutor-modern-theming
-  src: 'git+https://github.com/openedx/tutor-modern-theming.git@v0.3.3'
-  url: 'https://github.com/openedx/tutor-modern-theming.git'
+  src: 'git+https://github.com/edunext/tutor-modern-theming.git@v0.3.3'
+  url: 'https://github.com/edunext/tutor-modern-theming.git'
   author: eduNEXT
   maintainer: eduNEXT
   description: >
